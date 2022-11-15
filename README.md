@@ -1,6 +1,6 @@
 - Hello world, I’m Eric 🤓
 - I’m Engineer in industrial engineering
--  Passionate about java programming language and web development
+-  Passionate about programming
 - My current learning stack
     - React
     - Android / Kotlin
