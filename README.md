@@ -3,7 +3,7 @@
 -  Passionate about java programming language and web development
 - My current learning stack
     - React
-    - ANdroid / Kotlin
+    - Android / Kotlin
 
 
 
