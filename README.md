@@ -2,8 +2,9 @@
 - I’m an Engineer in industrial engineering
 -  Passionate about programming
 - My current learning stack
-    - React
     - Android / Kotlin
+    - React
+
 
 
 
