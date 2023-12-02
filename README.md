@@ -4,6 +4,7 @@
 - My current learning stack
     - Android / Kotlin
     - React
+    - Firebase
 
 
 
