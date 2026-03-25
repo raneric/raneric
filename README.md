@@ -8,7 +8,7 @@ I'm a Junior DevOps Engineer with a background in Industrial Automation and Elec
   <img src="https://github.com/raneric/raneric/blob/main/assets/150px-Kotlin-logo.svg.png" height="40" alt="kotlin"  />
   <img src="https://github.com/raneric/raneric/blob/main/assets/android-logo-0.png" height="40" alt="Android"  />
   <img src="https://github.com/raneric/raneric/blob/main/assets/compose.png" height="40" alt="Compose"  />
-  <img src="https://github.com/raneric/raneric/blob/main/assets/java.png" height="40" alt="Java"  />
+  <img src="https://github.com/raneric/raneric/blob/main/assets/typescript.png" height="40" alt="typescript"  />
   <img src="https://github.com/raneric/raneric/blob/main/assets/js.png" height="40" alt="dot-JS"  />
   <img src="https://github.com/raneric/raneric/blob/main/assets/firebase_28dp.png" height="40" alt="firebase logo"  />
   <img src="https://github.com/raneric/raneric/blob/main/assets/react.png" height="40" alt="React"  />
