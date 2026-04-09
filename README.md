@@ -13,7 +13,3 @@ I'm a Junior DevOps Engineer with a background in Industrial Automation and Elec
   <img src="https://github.com/raneric/raneric/blob/main/assets/firebase_28dp.png" height="40" alt="firebase logo"  />
   <img src="https://github.com/raneric/raneric/blob/main/assets/react.png" height="40" alt="React"  />
 </div>
-    <br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raneric&layout=donut-vertical&theme=dark" alt="languages graph"  />
-</div>
